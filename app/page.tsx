@@ -181,6 +181,12 @@ const jobs = [
     location: "Remote",
     url: "https://vercel.com/careers/software-engineer-turbopack-us-5022287004",
   },
+  {
+    title: "Senior Rust Engineer",
+    company: "Hugin.io",
+    location: "Remote",
+    url: "https://www.linkedin.com/jobs/view/4295801120/",
+  },
 ];
 
 function shuffle<T>(oldArray: T[]) {
